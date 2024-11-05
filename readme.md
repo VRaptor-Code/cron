@@ -3,7 +3,7 @@
 
 
 ### Iniciar aplicação
-`npm instart`
+`npm start`
 
 
 ![alt text](images/image.png)
