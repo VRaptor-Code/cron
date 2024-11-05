@@ -1,3 +1,5 @@
+/* Este arquivo contém a lógica do cronômetro. */
+
 let timer
 let isRunning = false
 let seconds = 0

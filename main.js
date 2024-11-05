@@ -1,3 +1,5 @@
+/* Este arquivo inicializa o aplicativo Electron e cria a janela principal. */
+
 const { app, BrowserWindow } = require('electron')
 const path = require('path')
 
