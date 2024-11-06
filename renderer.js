@@ -5,10 +5,10 @@ let isRunning = false
 let seconds = 0
 
 const timerDisplay = document.getElementById('timer')
-const startButton = document.getElementById('start')
-const pauseButton = document.getElementById('pause')
-const resetButton = document.getElementById('reset')
-const closeButton = document.getElementById('close')
+const startButton  = document.getElementById('start')
+const pauseButton  = document.getElementById('pause')
+const resetButton  = document.getElementById('reset')
+const closeButton  = document.getElementById('close')
 
 function updateDisplay() {
     const hours = String(Math.floor(seconds / 3600)).padStart(2, '0')
